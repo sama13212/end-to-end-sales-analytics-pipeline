@@ -129,9 +129,6 @@ Used to answer business questions through SQL queries, including:
 
 Used as the development and processing environment for the PySpark and Spark SQL workflow.
 
-### Delta Lake
-
-Used to persist the processed dataset for downstream analysis.
 
 ### Power BI
 
@@ -350,7 +347,7 @@ Potential improvements include:
 
 This project demonstrates an end-to-end analytics workflow starting from raw transactional data and ending with an interactive business intelligence dashboard.
 
-It combines **Python, PySpark, Spark SQL, Databricks, Delta Lake, and Power BI** to transform and analyze **1,000,000 restaurant orders** and communicate the resulting business insights through interactive visualizations.
+It combines **Python, PySpark, Spark SQL, Databricks and Power BI** to transform and analyze **1,000,000 restaurant orders** and communicate the resulting business insights through interactive visualizations.
 
 ---
 
@@ -362,4 +359,4 @@ Computer Science Student | Data Analyst Enthusiast
 
 ### Skills Demonstrated
 
-`Python` `Pandas` `PySpark` `SQL` `Databricks` `Delta Lake` `Power BI` `Data Analytics`
+`Python` `Pandas` `PySpark` `SQL` `Databricks` `Power BI` `Data Analytics`
